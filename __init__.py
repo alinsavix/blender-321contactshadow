@@ -9,7 +9,7 @@ bl_info = {
     "author": "TDV Alinsa",
     "description": "",
     "blender": (2, 91, 0),
-    "version": (1, 0, 0),
+    "version": (0, 0, 0),   # autoreplace
     "location": "keybinds > ttocs.set_contact_shadows or ttocs.force_set_contact_shadows",
     "warning": "",
     "category": "Mesh"
